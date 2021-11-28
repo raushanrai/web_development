@@ -1,1 +1,1 @@
-# web_development
+# SIMON_game
